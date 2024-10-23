@@ -1,0 +1,10 @@
+1 
+Poderia acender e desligar uma delas(A) ate queimar ;
+deixaria uma acessa(B) e iria conferir qual delas estaria acessa, 
+voltaria e acenderia a restante para conferir(C).
+
+2 
+poderia deixar uma ligada (A) e apos algum tempo desliga-la ;
+ligar a (B) e ir conferir:
+a lampada A estaria quente e desligada, a B ligada e a C desligada.
+iria voltar, desligar a B e ligar a C para conferir.

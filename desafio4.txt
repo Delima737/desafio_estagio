@@ -1,0 +1,12 @@
+a) 9
+sequencia de numero impares
+b) 128
+sequencia que dobra o numero anterior
+c) 49
+numeros de quadrados perfeitos
+d) 100
+quadrado perfeito pares
+e) 13
+sequencia de fibonacci
+f) 200
+todos os numero começam com D 
